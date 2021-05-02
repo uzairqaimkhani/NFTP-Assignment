@@ -1,2 +1,2 @@
 # NFTP-Assignment
-NFTP Material
+This repo is for NFTP Assignment
